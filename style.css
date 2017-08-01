@@ -1,0 +1,80 @@
+.undertitle {
+  display: flex;
+  justify-content: space-between;
+}
+
+.headbox {
+  position: relative;
+  padding: 8px 8px 32px 8px;
+  background: black;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-size: 55px;
+  font-weight: lighter;
+  font-family: serif;
+  font-family: serif;
+  padding: 3px;
+  margin-top: 30px;
+  ;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-weight: 800;
+  font-size: 30px;
+  color: black;
+  font-family: serif;
+}
+
+.info {
+  color: black;
+  flex-basis: 270px;
+  font-size: 14px;
+  margin-left: 250px;
+  margin-right: 20px;
+  font-family: serif;
+}
+
+li {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  list-style: none;
+  margin-left: -40px;
+}
+
+hr {
+  width: 1px;
+  height: 150px;
+  background-color: lightgrey;
+}
+
+.bio {
+  color: black;
+  flex-basis: 440px;
+  font-size: 1em;
+  margin-left: 20px;
+  font-family: serif;
+}
+
+img {
+  height: 110px;
+  border-radius: 150px;
+  margin-top: 50px;
+  margin-right: 250px;
+  margin-left: 40px;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+}
+
+.text {
+  color: teal;
+  text-decoration: none;
+  font-weight: bold;
+}
